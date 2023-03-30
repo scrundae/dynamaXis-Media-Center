@@ -11,4 +11,4 @@ View the ReadMe for more information on how to start this version.
 # How do I open it? (for IV 4.2 Deep Space)
 Make sure you have the .NET 6.0 Framework installed (it will prompt you to install it if not) then click on the .exe. Then, it will take you to a file viewer. Navigate to the directory containing the files for the app (where you clicked .exe) and click once on clyveTV 4.html.
 # Will you ever create a C# based sequel to dynamaXis?
-Yeah! In fact, i'm working on a sequel called "Dreamstir"
+Maybe, however I'm getting kind of bored of making software, and have started getting into making games.
